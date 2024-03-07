@@ -1,4 +1,4 @@
-### olá, Eu sou o Guilhrme 👋
+### Oi,Eu sou o Guilhrme 👋
 
 - 🔭 Estudando Java-script
 - 🌱 Estudante da Trybe
