@@ -1,7 +1,7 @@
 ### Oi,Eu sou o Guilhrme 👋
 
-- 🔭 Estudando Java-script
-- 🌱 Estudante da Trybe
+- 🔭 Estudando Python
+- 🌱 Estudante da UFVJM
 - 😄 Pronouns: Ele/dele
 
 
